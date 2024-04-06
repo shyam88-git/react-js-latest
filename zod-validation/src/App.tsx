@@ -1,7 +1,7 @@
-import Example1 from "./zod/Example1";
+import Form from "./components/Form";
 
 const App = () => {
-  return <Example1 />;
+  return <Form />;
 };
 
 export default App;
