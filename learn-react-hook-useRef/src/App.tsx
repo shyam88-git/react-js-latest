@@ -1,9 +1,9 @@
-import Example2 from "./UseRef/Example2";
+import Example3 from "./UseRef/Example3";
 
 const App = () => {
   return (
     <>
-      <Example2 />
+      <Example3 />
     </>
   );
 };
